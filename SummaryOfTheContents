@@ -1,6 +1,10 @@
+Check the files Classes , Instance , inheritances , poly , encapulation to Learn about the fundametals in the subject:OOP 
 
+-I must acknowledge that there may be some errors in the files provided, as the journey through the fundamentals of 
+ object-oriented programming in Python is not without its pitfalls. 
+ Nonetheless, these files serve as a valuable resource for acquiring a comprehensive understanding of the subject.
 
-The files provided serve as an instructive resource for acquiring a comprehensive understanding of the fundamentals of object-oriented programming in Python.
-Inside, you'll find notes and explanations covering the four key OOP principles: abstraction, encapsulation, inheritance, and polymorphism.
-They won't take you all the way, but they'll definitely give you a good enough understanding of how these principles work, to a certain extent.
-Even though it can be a bit tedious at times. This comprehensive yet occasionally challenging journey through the world of OOP will ultimately reward your efforts with a deeper understanding of Python's capabilities.
+-The files provided serve as an instructive resource for acquiring a comprehensive understanding of the fundamentals of object-oriented programming in Python.
+-Inside, you'll find notes and explanations covering the four key OOP principles: abstraction, encapsulation, inheritance, and polymorphism.
+-They won't take you all the way, but they'll definitely give you a good enough understanding of how these principles work, to a certain extent.
+-Even though it can be a bit tedious at times. This comprehensive yet occasionally challenging journey through the world of OOP will ultimately reward your efforts with a deeper understanding of Python's capabilities.
